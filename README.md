@@ -37,7 +37,7 @@ You need a web browser to view the website and a code editor (e.g., VSCode) to m
 3. Open the index.html file in your web browser:
    ```bash
     open index.html
-
+```markdown
 ## Folder Structure
 
 zomato-order-food-online/
