@@ -37,3 +37,27 @@ You need a web browser to view the website and a code editor (e.g., VSCode) to m
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/zomato-order-food-online.git
+2. Navigate to the project directory:
+   ```bash    
+    cd zomato-order-food-online
+3.Open the index.html file in your web browser:
+   ```bash
+    open index.html
+
+###Folder Structure
+
+zomato-order-food-online/
+├── css/
+│   └── style.css          # Main stylesheet
+├── img/
+│   ├── logo.png           # Logo image
+│   ├── bg.png             # Background image
+│   ├── fast-delivery.png  # Image for Fast Delivery feature
+│   ├── variety.png        # Image for Wide Variety feature
+│   └── quality.png        # Image for Quality Food feature
+├── js/
+│   └── script.js          # JavaScript file for animations
+├── index.html             # Main HTML file
+└── README.md              # This file
+
+
