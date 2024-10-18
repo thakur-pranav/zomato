@@ -3,16 +3,10 @@
 A simple Zomato-like food delivery website, built using HTML, CSS, and JavaScript. The website allows users to discover the best food and drinks in a city, with a focus on a clean and responsive design featuring a red theme.
 
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Demo
-You can view a live demo of the website [here](#).
 
 ## Features
 - Responsive header with navigation links.
@@ -40,11 +34,11 @@ You need a web browser to view the website and a code editor (e.g., VSCode) to m
 2. Navigate to the project directory:
    ```bash    
     cd zomato-order-food-online
-3.Open the index.html file in your web browser:
+3. Open the index.html file in your web browser:
    ```bash
     open index.html
 
-###Folder Structure
+## Folder Structure
 
 zomato-order-food-online/
 ├── css/
